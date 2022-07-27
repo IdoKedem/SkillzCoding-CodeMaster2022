@@ -1,4 +1,4 @@
-# SkillzPenguins2022
+# SkillzCoding: Co(l)de Master 2022
 
 This was my team of five's sumbit for the Co(l)de Skillz 2022 Finals.
 In this high school competition, the competitors have to develop a bot which will play a given game using a given API.
